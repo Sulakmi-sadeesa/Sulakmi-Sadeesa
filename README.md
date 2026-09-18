@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=200&section=header&text=Hi%20I'm%20Sulakmi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Sulakmi-sadeesa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Loves+Coding;Always+Learning;Building+Cute+Things;Turning+Coffee+into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Loves+Coding;Always+Learning;Building;" alt="Typing SVG" />
 </a>
 
 <br/>
