@@ -15,7 +15,7 @@
 
 ---
 
-### 🌊 `In [1]: whoami()`
+### 🌊 `In [1]: who_am_i()`
 
 ```python
 class Sulakmi:
@@ -123,7 +123,7 @@ A test healthcare management system project.
 </details>
 
 <details>
-<summary>🌦️ <b>Weather & Currency Dashboard</b>y</summary>
+<summary>🌦️ <b>Weather & Currency Dashboard</b></summary>
 
 <br/>
 
