@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sulakmi-Sadeesaa004?tab=followers">
-    <img src="https://img.shields.io/github/followers/Sulakmi-Sadeesaa004?label=Followers&style=for-the-badge&color=ffd166&labelColor=1a1a3a" />
+  <a href="https://github.com/Sulakmi-Sadeesa?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sulakmi-Sadeesa?label=Followers&style=for-the-badge&color=ffd166&labelColor=1a1a3a" />
   </a>
-  <a href="https://github.com/Sulakmi-Sadeesaa004">
-    <img src="https://komarev.com/ghpvc/?username=Sulakmi-Sadeesaa004&label=Profile%20Views&color=ff5566&style=for-the-badge" />
+  <a href="https://github.com/Sulakmi-Sadeesa">
+    <img src="https://komarev.com/ghpvc/?username=Sulakmi-Sadeesa&label=Profile%20Views&color=ff5566&style=for-the-badge" />
   </a>
   <a href="mailto:sulakmisadeesaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-sulakmisadeesaa@gmail.com-ffd166?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a3a" />
@@ -74,7 +74,7 @@ chance to learn something new and ship something real.
 
 <td width="42%" align="center">
 
-<img width="220" src="https://github.com/Sulakmi-Sadeesaa004.png" alt="avatar" />
+<img width="220" src="https://github.com/Sulakmi-Sadeesa.png" alt="avatar" />
 
 <br><br>
 
@@ -130,16 +130,16 @@ chance to learn something new and ship something real.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sulakmi-Sadeesaa004&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffd166&icon_color=ff5566&text_color=a8b4d8" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sulakmi-Sadeesaa004&theme=nightowl&hide_border=true&background=0d1117&stroke=ffd166&ring=ff5566&fire=ff5566&currStreakLabel=ffd166" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sulakmi-Sadeesa&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffd166&icon_color=ff5566&text_color=a8b4d8&cache_seconds=86400" alt="stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Sulakmi-Sadeesa&theme=nightowl&hide_border=true&background=0d1117&stroke=ffd166&ring=ff5566&fire=ff5566&currStreakLabel=ffd166" alt="streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulakmi-Sadeesaa004&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=ffd166&text_color=a8b4d8&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulakmi-Sadeesa&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=ffd166&text_color=a8b4d8&langs_count=8&cache_seconds=86400" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sulakmi-Sadeesaa004&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sulakmi-Sadeesa&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
 ---
@@ -147,14 +147,14 @@ chance to learn something new and ship something real.
 <!-- ========================================================= -->
 <!--                  CONTRIBUTION GRAPH                       -->
 <!-- ========================================================= -->
-<h2 align="center">🐍 Contribution Graph</h2>
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sulakmi-Sadeesaa004&theme=react-dark&bg_color=0d1117&color=ffd166&line=ff5566&point=ffffff&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sulakmi-Sadeesa&theme=react-dark&bg_color=0d1117&color=ffd166&line=ff5566&point=ffffff&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Sulakmi-Sadeesaa004/Sulakmi-Sadeesaa004/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img width="95%" src="https://raw.githubusercontent.com/Sulakmi-Sadeesa/Sulakmi-Sadeesa/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
 ---
@@ -165,24 +165,24 @@ chance to learn something new and ship something real.
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/Sulakmi-Sadeesaa004?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sulakmi-Sadeesaa004&repo=2D-Adventure-Game&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=ffd166&icon_color=ff5566&text_color=a8b4d8" />
+  <a href="https://github.com/Sulakmi-Sadeesa?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sulakmi-Sadeesa&repo=2D-Adventure-Game&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=ffd166&icon_color=ff5566&text_color=a8b4d8&cache_seconds=86400" alt="2D Adventure Game" />
   </a>
-  <a href="https://github.com/Sulakmi-Sadeesaa004?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sulakmi-Sadeesaa004&repo=3D-Car-Driving-Game&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=ffd166&icon_color=ff5566&text_color=a8b4d8" />
+  <a href="https://github.com/Sulakmi-Sadeesa?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sulakmi-Sadeesa&repo=3D-Car-Driving-Game&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=ffd166&icon_color=ff5566&text_color=a8b4d8&cache_seconds=86400" alt="3D Car Driving Game" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sulakmi-Sadeesaa004?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sulakmi-Sadeesaa004&repo=Healthcare-Management-System&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=ffd166&icon_color=ff5566&text_color=a8b4d8" />
+  <a href="https://github.com/Sulakmi-Sadeesa?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sulakmi-Sadeesa&repo=Healthcare-Management-System&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=ffd166&icon_color=ff5566&text_color=a8b4d8&cache_seconds=86400" alt="Healthcare Management System" />
   </a>
-  <a href="https://github.com/Sulakmi-Sadeesaa004?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sulakmi-Sadeesaa004&repo=Weather-Dashboard&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=ffd166&icon_color=ff5566&text_color=a8b4d8" />
+  <a href="https://github.com/Sulakmi-Sadeesa?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sulakmi-Sadeesa&repo=Weather-Dashboard&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=ffd166&icon_color=ff5566&text_color=a8b4d8&cache_seconds=86400" alt="Weather Dashboard" />
   </a>
 </p>
 
-> **Note:** Replace the four `repo=` names above with the exact repository names from your GitHub account. If a repo doesn't exist, the card just won't render — so only keep the ones you actually have.
+> **Note:** The four project cards above will only render if the repository names match exactly. Replace `2D-Adventure-Game`, `3D-Car-Driving-Game`, `Healthcare-Management-System`, and `Weather-Dashboard` with the exact names of your repos. If a card is blank, that repo name is wrong. Delete any cards you don't want.
 
 ---
 
@@ -195,7 +195,7 @@ chance to learn something new and ship something real.
   <a href="mailto:sulakmisadeesaa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Sulakmi-Sadeesaa004">
+  <a href="https://github.com/Sulakmi-Sadeesa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Colombo%2C%20Sri%20Lanka-ffd166?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a3a" />
