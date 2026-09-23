@@ -1,95 +1,51 @@
-<!-- ========================================================= -->
-<!--                     PREMIUM HERO                          -->
-<!-- ========================================================= -->
-<p align="center">
-  <img width="100%" alt="hero" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2a4a,50:2d4a6e,100:1a3a5c&height=200&section=header&text=Hi%20I'm%20Sulakmi&fontSize=60&fontColor=ffd166&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Sri%20Lanka&descAlignY=62&descSize=18" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Sulakmi-Sadeesa?tab=followers">
-    <img src="https://img.shields.io/github/followers/Sulakmi-Sadeesa?label=Followers&style=for-the-badge&color=ffd166&labelColor=1a1a3a" />
-  </a>
-  <a href="https://github.com/Sulakmi-Sadeesa">
-    <img src="https://komarev.com/ghpvc/?username=Sulakmi-Sadeesa&label=Profile%20Views&color=ff5566&style=for-the-badge" />
-  </a>
-  <a href="mailto:sulakmisadeesaa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sulakmisadeesaa@gmail.com-ffd166?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a3a" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=200&section=header&text=Hi%20I'm%20Sulakmi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://github.com/Sulakmi-sadeesa">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Loves+Coding;Always+Learning;Building;" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sulakmi-sadeesa&color=4A90E2&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Sulakmi-sadeesa?color=87CEEB&style=for-the-badge&label=FOLLOWERS&logo=github)
+
+</div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                    PROFILE INTRO                          -->
-<!-- ========================================================= -->
-<table align="center" width="96%">
-<tr>
+### 🌊 `In [1]: who_am_i()`
 
-<td width="58%" valign="top">
+```python
+class Sulakmi:
+    """
+    Hi,I'm Sulakmi.. Just a girl who loves coding and stuff
+    """
 
-<h2>Engineering With Purpose</h2>
+    def __init__(self):
+        self.name       = "Sulakmi Sadeesa"
+        self.role       = "Full Stack Developer"
+        self.location   = "Colombo, Sri Lanka"
+        self.languages  = ["JavaScript", "Python", "Java", "C", "C++", "HTML", "CSS"]
+        self.frameworks = ["React", "Node.js", "Flutter"]
+        self.hobbies    = ["Coding", "Designing", "Stargazing"]
 
-<p>
-I design and build modern software systems across the
-<strong>frontend, backend, and game development layers.</strong>
-</p>
+    def say_hi(self):
+        print("Welcome to my github profile")
 
-<p>
-I love turning complicated ideas into clean, scalable, and
-maintainable projects — from 2D games and 3D simulations to
-healthcare systems and weather dashboards. Every project is a
-chance to learn something new and ship something real.
-</p>
+me = Sulakmi()
+me.say_hi()
+```
 
-<br>
-
-<table>
-<tr>
-<td>
-
-<strong>Frontend</strong><br> <sub>HTML · CSS · JavaScript</sub>
-
-</td>
-<td>
-
-<strong>Backend</strong><br> <sub>Python · Java · C++</sub>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<strong>Game Dev</strong><br> <sub>Canvas · OpenGL · Unity-style 3D</sub>
-
-</td>
-<td>
-
-<strong>Data & AI</strong><br> <sub>Kotlin · R · Machine Learning basics</sub>
-
-</td>
-</tr>
-</table>
-
-</td>
-
-<td width="42%" align="center">
-
-<img width="220" src="https://github.com/Sulakmi-Sadeesa.png" alt="avatar" />
-
-<br><br>
-
-<sub><i>"Always curious. Always coding."</i></sub>
-
-</td>
-
-</tr>
-</table>
+> 💙 *I'm a passionate developer who loves turning quiet ideas into soft, functional, and cute web experiences.*
 
 ---
 
-<!-- ========================================================= -->
-<!--                    TECHNOLOGY MATRIX                      -->
-<!-- ========================================================= -->
+### 🫧 `In [2]: tech_stack()`
+
+<div align="center">
+
 <h2 align="center">🧰 Tech Stack</h2>
 
 <p align="center">
@@ -122,99 +78,117 @@ chance to learn something new and ship something real.
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
-
-<!-- ========================================================= -->
-<!--                    GITHUB STATS                           -->
-<!-- ========================================================= -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=Sulakmi-Sadeesa&theme=nightowl&hide_border=true&background=0d1117&stroke=ffd166&ring=ff5566&fire=ff5566&currStreakLabel=ffd166" alt="streak" />
-</p>
+</div>
 
 ---
 
-<!-- ========================================================= -->
-<!--               FEATURED PROJECTS                           -->
-<!-- ========================================================= -->
-<h2 align="center">🚀 Featured Projects</h2>
+### 🐳 `In [3]: github_stats()`
 
-<table align="center" width="90%">
-<tr>
-<td align="center" width="50%">
+<div align="center">
 
-<h3>🎮 2D Adventure Game</h3>
-<sub>A retro 2D platformer built with HTML Canvas and vanilla JavaScript.</sub>
+<br/><br/>
 
-<a href="https://github.com/Sulakmi-Sadeesa?tab=repositories">
-  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sulakmi-sadeesa&theme=react&hide_border=true&ring=4A90E2&fire=87CEEB&currStreakLabel=4A90E2" />
 
-</td>
-<td align="center" width="50%">
-
-<h3>🚗 3D Car Driving Game</h3>
-<sub>A 3D car simulation exploring real-time graphics and physics.</sub>
-
-<a href="https://github.com/Sulakmi-Sadeesa?tab=repositories">
-  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-<h3>🏥 Healthcare Management System</h3>
-<sub>A full-stack system for managing patient records and appointments.</sub>
-
-<a href="https://github.com/Sulakmi-Sadeesa?tab=repositories">
-  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td align="center" width="50%">
-
-<h3>🌤️ Weather Dashboard</h3>
-<sub>Live weather dashboard consuming a public weather API.</sub>
-
-<a href="https://github.com/Sulakmi-Sadeesa?tab=repositories">
-  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                  CONNECT WITH ME                          -->
-<!-- ========================================================= -->
-<h2 align="center">🌐 Connect With Me</h2>
+### 🎐 `In [4]: featured_projects()`
 
-<p align="center">
-  <a href="mailto:sulakmisadeesaa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Sulakmi-Sadeesa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Colombo%2C%20Sri%20Lanka-ffd166?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a3a" />
-</p>
+<details>
+<summary>🦖 <b>2D Dino Adventure Game</b></summary>
+
+<br/>
+
+A fun 2D browser game where players control a dinosaur, jump over obstacles, and chase the high score.
+
+**Tech:** `JavaScript` `HTML` `CSS`
+
+🔗 [Explore the Repo](https://github.com/Sulakmi-sadeesa/2D-Dino-Adventure-Game)
+</details>
+
+<details>
+<summary>🚗 <b>3D Car Driving Game</b></summary>
+
+<br/>
+
+A 3D car driving game with keyboard and mobile controls, speedometer, and nitro boost.
+
+**Tech:** `JavaScript` `Three.js`
+
+🔗 [Explore the Repo](https://github.com/Sulakmi-sadeesa/3D-Car-Driving-Game-with-Hand-Controlling)
+</details>
+
+<details>
+<summary>🏥 <b>Healthcare Management System</b></summary>
+
+<br/>
+
+A test healthcare management system project.
+
+**Tech:** `HTML`
+
+🔗 [Explore the Repo](https://github.com/Sulakmi-sadeesa/HealthCareManagementSystem_Test)
+</details>
+
+<details>
+<summary>🌦️ <b>Weather & Currency Dashboard</b></summary>
+
+<br/>
+
+Live weather + currency conversion dashboard with zero dependencies.
+
+**Tech:** `JavaScript`
+
+🔗 [Explore the Repo](https://github.com/Sulakmi-sadeesa/Weather-and-Currency-Dashboard-2.0)
+</details>
+
+<details>
+<summary>🎮 <b>Simple Coding Study Game</b></summary>
+
+<br/>
+
+An interactive educational game for learning C and Python through fun coding challenges and quizzes.
+
+**Tech:** `JavaScript` `HTML` `CSS`
+
+🔗 [Explore the Repo](https://github.com/Sulakmi-sadeesa/Simple-Coding-Study-Game)
+</details>
+
+<details>
+<summary>🚙 <b>Simple 3D Car Driving Game</b></summary>
+
+<br/>
+
+A simple 3D car driving game with keyboard and mobile controls, built using Three.js.
+
+**Tech:** `JavaScript` `Three.js`
+
+🔗 [Explore the Repo](https://github.com/Sulakmi-sadeesa/Simple-3D-Car-Driving-Game)
+</details>
 
 ---
 
-<!-- ========================================================= -->
-<!--                    THANKS MESSAGE                         -->
-<!-- ========================================================= -->
-<h2 align="center">💙 Thanks for visiting!</h2>
+### 🫐 `In [5]: connect_with_me()`
 
-<p align="center">
-  <i>Always learning. Always building. Always shipping.</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,50:2d4a6e,100:1e2a4a&height=120&section=footer" />
-</p>
+[![Email](https://img.shields.io/badge/Email-sulakmisadee%40gmail.com-4A90E2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulakmisadee@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Colombo%2C_Sri_Lanka-87CEEB?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Sulakmi--sadeesa-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sulakmi-sadeesa)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🩵 Thanks for Visiting 🩵
+
+*💙*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=footer" width="100%"/>
+
+</div>
+```
