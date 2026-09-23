@@ -130,12 +130,7 @@ chance to learn something new and ship something real.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sulakmi-Sadeesa&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffd166&icon_color=ff5566&text_color=a8b4d8&cache_seconds=86400" alt="stats" />
   <img height="180" src="https://streak-stats.demolab.com?user=Sulakmi-Sadeesa&theme=nightowl&hide_border=true&background=0d1117&stroke=ffd166&ring=ff5566&fire=ff5566&currStreakLabel=ffd166" alt="streak" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulakmi-Sadeesa&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=ffd166&text_color=a8b4d8&langs_count=8&cache_seconds=86400" alt="top langs" />
 </p>
 
 <p align="center">
@@ -145,16 +140,12 @@ chance to learn something new and ship something real.
 ---
 
 <!-- ========================================================= -->
-<!--                  CONTRIBUTION GRAPH                       -->
+<!--                  CONTRIBUTION ACTIVITY                    -->
 <!-- ========================================================= -->
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sulakmi-Sadeesa&theme=react-dark&bg_color=0d1117&color=ffd166&line=ff5566&point=ffffff&hide_border=true&area=true" alt="activity graph" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/Sulakmi-Sadeesa/Sulakmi-Sadeesa/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
 ---
@@ -164,25 +155,52 @@ chance to learn something new and ship something real.
 <!-- ========================================================= -->
 <h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/Sulakmi-Sadeesa?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sulakmi-Sadeesa&repo=2D-Adventure-Game&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=ffd166&icon_color=ff5566&text_color=a8b4d8&cache_seconds=86400" alt="2D Adventure Game" />
-  </a>
-  <a href="https://github.com/Sulakmi-Sadeesa?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sulakmi-Sadeesa&repo=3D-Car-Driving-Game&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=ffd166&icon_color=ff5566&text_color=a8b4d8&cache_seconds=86400" alt="3D Car Driving Game" />
-  </a>
-</p>
+<table align="center" width="90%">
+<tr>
+<td align="center" width="50%">
 
-<p align="center">
-  <a href="https://github.com/Sulakmi-Sadeesa?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sulakmi-Sadeesa&repo=Healthcare-Management-System&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=ffd166&icon_color=ff5566&text_color=a8b4d8&cache_seconds=86400" alt="Healthcare Management System" />
-  </a>
-  <a href="https://github.com/Sulakmi-Sadeesa?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sulakmi-Sadeesa&repo=Weather-Dashboard&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=ffd166&icon_color=ff5566&text_color=a8b4d8&cache_seconds=86400" alt="Weather Dashboard" />
-  </a>
-</p>
+<h3>🎮 2D Adventure Game</h3>
+<sub>A retro 2D platformer built with HTML Canvas and vanilla JavaScript.</sub>
 
-> **Note:** The four project cards above will only render if the repository names match exactly. Replace `2D-Adventure-Game`, `3D-Car-Driving-Game`, `Healthcare-Management-System`, and `Weather-Dashboard` with the exact names of your repos. If a card is blank, that repo name is wrong. Delete any cards you don't want.
+<a href="https://github.com/Sulakmi-Sadeesa?tab=repositories">
+  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td align="center" width="50%">
+
+<h3>🚗 3D Car Driving Game</h3>
+<sub>A 3D car simulation exploring real-time graphics and physics.</sub>
+
+<a href="https://github.com/Sulakmi-Sadeesa?tab=repositories">
+  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<h3>🏥 Healthcare Management System</h3>
+<sub>A full-stack system for managing patient records and appointments.</sub>
+
+<a href="https://github.com/Sulakmi-Sadeesa?tab=repositories">
+  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td align="center" width="50%">
+
+<h3>🌤️ Weather Dashboard</h3>
+<sub>Live weather dashboard consuming a public weather API.</sub>
+
+<a href="https://github.com/Sulakmi-Sadeesa?tab=repositories">
+  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
