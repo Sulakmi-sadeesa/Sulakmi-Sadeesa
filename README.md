@@ -19,10 +19,9 @@
 
 ```python
 class Sulakmi:
-    """
-    Hi,I'm Sulakmi.. Just a girl who loves coding and stuff
-    """
 
+    Hi,I'm Sulakmi.. Just a girl who loves coding and stuff
+    
     def __init__(self):
         self.name       = "Sulakmi Sadeesa"
         self.role       = "Full Stack Developer"
