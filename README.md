@@ -46,7 +46,6 @@ me.say_hi()
 
 <div align="center">
 
-<h2 align="center">🧰 Tech Stack</h2>
 
 <p align="center">
   <b>Languages</b><br>
