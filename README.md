@@ -85,7 +85,7 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sulakmi-Sadeesa&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sulakmi-Sadeesa&theme=blueberry&hide_border=true" alt="GitHub Streak" /></a>
 
 </div>
 
