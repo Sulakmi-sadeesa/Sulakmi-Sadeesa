@@ -99,7 +99,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-sulakmisadee%40gmail.com-4A90E2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulakmisadee@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sulakmisadiz%40gmail.com-4A90E2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulakmisadee@gmail.com)
 
 [![Location](https://img.shields.io/badge/Location-Colombo%2C_Sri_Lanka-87CEEB?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
