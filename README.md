@@ -89,7 +89,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="./profile/streak.svg" alt="GitHub Streak Stats" width="90%" />
+<img src="./profile/streak.svg" alt="GitHub Streak Stats" width="65%" />
 
 </div>
 
