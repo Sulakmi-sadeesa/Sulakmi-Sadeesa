@@ -16,7 +16,7 @@
 
 ---
 
-### 🌊 `In [1]: who_am_i()`
+### `In [1]: who_am_i()`
 
 ```python
 class Sulakmi:
@@ -47,7 +47,7 @@ me.say_hi()
 
 ---
 
-### 🫧 `In [2]: tech_stack()`
+### `In [2]: tech_stack()`
 
 <div align="center">
 
@@ -85,7 +85,7 @@ me.say_hi()
 
 ---
 
-### 🐳 `In [3]: github_stats()`
+### `In [3]: github_stats()`
 
 <div align="center">
 
@@ -95,7 +95,7 @@ me.say_hi()
 
 ---
 
-### 🫐 `In [4]: connect_with_me()`
+### `In [4]: connect_with_me()`
 
 <div align="center">
 
